@@ -1,7 +1,7 @@
 Hi there 👋 My name is Asafe Cabral Alves
 
-- 🔭 I’m currently a student at Cornerstone International Community College of Canada
-- 🌱 I’m currently learning Python ...
+- 🔭 Graduated at Cornerstone International Community College of Canada
+- 🌱 Currently working at Gioppi&Conti...
 - 📫 How to reach me: alves.asafecabral@gmail.com
 
 
